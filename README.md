@@ -18,7 +18,7 @@ The dataset contains measurements of 11 chemical properties for 1,143 wine sampl
 - **Key Findings**: Identified alcohol content, volatile acidity, and sulphates as top quality predictors
 
 ## 📈 Results
-Our best model (KNN) achieved an R² score of 0.47, explaining nearly half of the variance in wine quality with chemical measurements alone.
+Our best model (Random Forest) achieved an R² score of 0.47, explaining nearly half of the variance in wine quality with chemical measurements alone.
 
 ## 🎥 Presentation
 Watch the project presentation:
