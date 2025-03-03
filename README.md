@@ -33,7 +33,7 @@ Watch the project presentation:
 ## 🚀 Getting Started
 1. Clone this repository
 2. Install required packages
-3. Run the Jupyter notebook: `jupyter notebook Wine_Quality_Prediction.ipynb`
+3. Run the Jupyter notebook: `jupyter notebook
 
 
 ---
